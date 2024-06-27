@@ -1,0 +1,12 @@
+{
+	"name": "my-blocks/image-block",
+	"title": "Картинка",
+	"category": "media",
+	"icon": "format-image",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "my-blocks",
+	"editorScript": "file:./index.js",
+	"style": "file:./style-index.css"
+}

@@ -1,0 +1,12 @@
+{
+	"name": "my-blocks/two-cols",
+	"title": "Двухколонник",
+	"category": "design",
+	"icon": "columns",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "my-blocks",
+	"editorScript": "file:./index.js",
+	"style": "file:./style-index.css"
+}

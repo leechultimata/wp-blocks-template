@@ -1,0 +1,15 @@
+.twoCols {
+  >:global(.block-editor-inner-blocks){
+   >:global(.block-editor-block-list__layout){
+      display: flex;
+      gap:20px;
+      >*{
+         border:1px rgba(0,0,0,0.5) solid;
+         flex:1;
+      }
+   }
+  }
+  :global(.wp-block){
+   margin:0;
+  }
+}
